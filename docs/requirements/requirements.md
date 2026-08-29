@@ -50,6 +50,7 @@ El sistema de TechCup debe tener:
 | Actor | Capitán |
 | Flujo principal | 1. El capitán inicia sesión en el sistema.<br>2. El capitán selecciona la opción "Crear equipo".<br>3. El capitán ingresa la información del equipo (nombre, integrantes, etc.).<br>4. El sistema consulta cuál es el torneo activo.<br>5. El sistema registra el equipo asociado a ese torneo. |
 | Diagrama de caso de uso | ![RF-02](../uml/rf2-diagrama.png) |
+| Link del Mock-Up | https://canva.link/8jskmph7hhgkhml
 | Poscondiciones | El equipo queda creado y registrado en el torneo activo, quedando disponible para continuar con el proceso de pago de inscripción (RF-03). |
 
 ### 2.3 Requerimiento Funcional 3
