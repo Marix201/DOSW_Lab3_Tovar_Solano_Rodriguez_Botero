@@ -14,7 +14,7 @@ Actualmente la Escuela no cuenta con un sistema centralizado que permita crear t
 
 ### 3.1 Diagrama
 
-
+![Diagrama de Contexto TechCup](../uml/diagrama_contexto.png)
 
 Enlace al diagrama editable: https://lucid.app/lucidchart/cb0ab0fc-ff92-4376-b86a-30b40a68f413/edit?view_items=XnipXXKCii.I&page=0_0&invitationId=inv_d14314eb-c4ae-4291-a349-32dccf4a0078
 
