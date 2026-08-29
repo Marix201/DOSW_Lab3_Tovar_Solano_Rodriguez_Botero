@@ -1,4 +1,12 @@
 # DOSW_Lab3_Tovar_Solano_Rodriguez_Botero
+# Integrantes del equipo
+
+| Nombre    | Correo institucional                          | Usuario de GitHub |
+| --------- | --------------------------------------------- | ------------------ |
+| Mariana Tovar | mariana.tovar-c@mail.escuelaing.edu.co | marix201 |
+| Paula Andrea Solano Morales | paula.solano-m@mail.escuelaing.edu.co | AndreaSolano23 |
+| Natalia Andrea Rodríguez Torres   | natalia.rodriguez-t@mail.escuelaing.edu.co | nataliaRT12 |
+
 ## Preguntas — Maven y Pull Requests
 
 ### 1. ¿Qué es un Maven Archetype?
